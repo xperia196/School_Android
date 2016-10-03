@@ -12,30 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Git\School_Android_HW1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="D:\Git\School_Android_HW1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_75d4527fe8b84c1220b39a8607aed37504fc04ce\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Git\School_Android_HW1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="509c954266c780db1cb76b29949338e31a763f30">
+        sha1="e22588bad8bd5eba97f872f0220821a593a6bb47">
         <dex dex="D:\Git\School_Android_HW1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2fa14cc7a66b82f38772642f0db86f8306017adb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Git\School_Android_HW1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="D:\Git\School_Android_HW1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ba9baafab520859189813ac78bd907e33e5250f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,11 +39,29 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\Git\School_Android_HW1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Git\School_Android_HW1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_75d4527fe8b84c1220b39a8607aed37504fc04ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Git\School_Android_HW1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Git\School_Android_HW1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ba9baafab520859189813ac78bd907e33e5250f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\Git\School_Android_HW1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="919ba65f537cd8bb1026e164960ab32280127e2f">
+        sha1="23566bff04a02ff0584fd7705cc4273557ed22f9">
         <dex dex="D:\Git\School_Android_HW1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_02bc4b0b933966f81e56329b3b905b237128d637\classes.dex" />
     </item>
     <item
